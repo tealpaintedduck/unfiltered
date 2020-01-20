@@ -1,5 +1,5 @@
 my nice list of things
 is like this
-1.
-2.
-3.
+1. my first thing
+2. my second thing
+3. my last thing
